@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you don't want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mary Catherine Scott. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am married to a wonderful and loyal man
+- I have two adorable children who use up all of my free time
+- When I am not in class I am at work 
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm not sure how much of my history you really need or want to know... So I will come and add to this later as I see fit.
