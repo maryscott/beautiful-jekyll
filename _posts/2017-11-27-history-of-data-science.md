@@ -30,7 +30,7 @@ Matthew A. Waller and Stanley E. Fawcett pulished a paper in 2013 titled “Data
 
 Also in 2013 Foster Provost and Tom Fawcett wrote “Data Science and its Relationship to Big Data and Data-Driven Decision Making”  They bring up the last step of the data science idea, that of decision making.  We take the time to analyze data to help us to make decisions based on the past, in hopes that we make better decisions in the future.   They say, “data science is a set of fundamental principles that support and guide the principled extraction of information and knowledge from data” 
 
-####Resources
+#### Resources
 1.
 2.
 3.
