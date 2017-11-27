@@ -1,3 +1,11 @@
+---
+layout: post
+title: Brief History of Data Science
+subtitle: Thoughts on the Evolution of Data Science
+comments: true
+published: true
+---
+
 What is Data Science?
 
 Before diving into the history of Data Science a definition of data science is needed.  I wanted to look into the history of data science, but quickly realized that I had no idea what it was.  According to Investopedia, data science is “a field of big data which seeks to provide meaningful information from large amounts of complex data.  Data science combines different fields of work in statistics and computation in order to interpret data for the purpose of decision making” (https://www.investopedia.com/terms/d/data-science.asp).
