@@ -32,7 +32,7 @@ Also in 2013 Foster Provost and Tom Fawcett wrote “Data Science and its Relati
 
 #### Resources
 1._Data Science._ https://www.investopedia.com/terms/d/data-science.asp
-2.
+2.Concise survey of computer methods. Peter Naur. New York: Petrocelli Books, 397 p. (1975). Retrieved from http://www.naur.com/Conc.Surv.html
 3.
 4.
 5.
