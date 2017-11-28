@@ -30,7 +30,7 @@ Also in 2013 Foster Provost and Tom Fawcett wrote “Data Science and its Relati
 
 #### What happens next?
 
-
+I expect we shall continue to see data science grow.  As employers see their data growing and the need for more sophisticated measures of that data we will see a higher demand for data scientists.  This is a growing field that is still splitting off of older ideologies of statistics, data analysis, and computer science.  I am curious what it will grow into in the coming years and will be keeping an eye on it as it grows.
 
 #### Resources
 1. _Data Science._ https://www.investopedia.com/terms/d/data-science.asp
